@@ -154,11 +154,11 @@ Used as a benchmark model without regularization.
 
 ### 2️⃣ Ridge Regression
 
-Penalty:
+**Penalty:**
 
 $$ \lambda \sum w_i^2 $$
 
-Purpose:
+**Purpose:**
 
 * Reduce coefficient magnitude
 * Improve model stability
@@ -167,11 +167,11 @@ Purpose:
 
 ### 3️⃣ Lasso Regression
 
-Penalty:
+**Penalty:**
 
 $$ \lambda \sum |w_i| $$
 
-Purpose:
+**Purpose:**
 
 * Feature selection
 * Simplify model
@@ -180,11 +180,11 @@ Purpose:
 
 ### 4️⃣ ElasticNet Regression
 
-Penalty:
+**Penalty:**
 
 $$ \lambda_1 \sum |w_i| + \lambda_2 \sum w_i^2 $$
 
-Purpose:
+**Purpose:**
 
 * Combine strengths of Ridge and Lasso
 
@@ -251,9 +251,6 @@ Launch Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
-
----
-
 ---
 
 ## 👨‍💻 Author
