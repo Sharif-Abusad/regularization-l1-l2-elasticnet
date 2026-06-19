@@ -231,7 +231,7 @@ regularization-l1-l2-elasticnet/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/regularization-l1-l2-elasticnet.git
+git clone https://github.com/Sharif-Abusad/regularization-l1-l2-elasticnet.git
 ```
 
 Navigate to project folder:
